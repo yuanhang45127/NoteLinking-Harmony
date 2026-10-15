@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "NoteLink 笔记库"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "NoteLink"
+    },
+    {
+      "name": "mic_reason",
+      "value": "语音速记需要使用麦克风转写"
+    }
+  ]
+}
